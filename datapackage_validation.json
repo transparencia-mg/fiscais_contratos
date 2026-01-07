@@ -1,0 +1,508 @@
+{
+  "version": "4.16.6",
+  "time": 1.007,
+  "errors": [],
+  "tasks": [
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "fiscais_contratos_2022",
+        "path": "data/fiscais_contratos_2022.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_do_processo_formatado",
+              "type": "string"
+            },
+            {
+              "name": "numero_do_contrato",
+              "type": "integer"
+            },
+            {
+              "name": "situacao_do_contrato",
+              "type": "string"
+            },
+            {
+              "name": "tipo_do_contrato",
+              "type": "string"
+            },
+            {
+              "name": "data_de_publicacao",
+              "type": "date"
+            },
+            {
+              "name": "data_inicio_de_vigencia",
+              "type": "date"
+            },
+            {
+              "name": "data_fim_de_vigencia",
+              "type": "date"
+            },
+            {
+              "name": "orgaos_participantes",
+              "type": "string"
+            },
+            {
+              "name": "cnpj_cpf",
+              "type": "string"
+            },
+            {
+              "name": "nome_fornecedor",
+              "type": "string"
+            },
+            {
+              "name": "unidade_gestora_do_contrato",
+              "type": "string"
+            },
+            {
+              "name": "gestores_do_contrato_portal_de_compras",
+              "type": "string"
+            },
+            {
+              "name": "x",
+              "type": "any"
+            },
+            {
+              "name": "fiscais_do_contrato",
+              "type": "string"
+            },
+            {
+              "name": "objeto",
+              "type": "string"
+            },
+            {
+              "name": "valor_inicial",
+              "type": "string"
+            },
+            {
+              "name": "valor_atual",
+              "type": "string"
+            },
+            {
+              "name": "link_arquivo_do_contrato",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "49f44ee799d98e86e64b844831842bb2",
+          "bytes": 2771573,
+          "fields": 18,
+          "rows": 3961
+        }
+      },
+      "time": 0.271,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "fiscais_contratos_2023",
+        "path": "data/fiscais_contratos_2023.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_do_processo_formatado",
+              "type": "string"
+            },
+            {
+              "name": "numero_do_contrato",
+              "type": "integer"
+            },
+            {
+              "name": "situacao_do_contrato",
+              "type": "string"
+            },
+            {
+              "name": "tipo_do_contrato",
+              "type": "string"
+            },
+            {
+              "name": "data_de_publicacao",
+              "type": "date"
+            },
+            {
+              "name": "data_inicio_de_vigencia",
+              "type": "date"
+            },
+            {
+              "name": "data_fim_de_vigencia",
+              "type": "date"
+            },
+            {
+              "name": "orgaos_participantes",
+              "type": "string"
+            },
+            {
+              "name": "cnpj_cpf",
+              "type": "string"
+            },
+            {
+              "name": "nome_fornecedor",
+              "type": "string"
+            },
+            {
+              "name": "unidade_gestora_do_contrato",
+              "type": "string"
+            },
+            {
+              "name": "gestores_do_contrato_portal_de_compras",
+              "type": "string"
+            },
+            {
+              "name": "x",
+              "type": "any"
+            },
+            {
+              "name": "fiscais_do_contrato",
+              "type": "string"
+            },
+            {
+              "name": "objeto",
+              "type": "string"
+            },
+            {
+              "name": "valor_inicial",
+              "type": "string"
+            },
+            {
+              "name": "valor_atual",
+              "type": "string"
+            },
+            {
+              "name": "link_arquivo_do_contrato",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "1d1800c42091f0a2e2561e594adae1a0",
+          "bytes": 3038053,
+          "fields": 18,
+          "rows": 4082
+        }
+      },
+      "time": 0.28,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "fiscais_contratos_2024",
+        "path": "data/fiscais_contratos_2024.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_do_processo_formatado",
+              "type": "string"
+            },
+            {
+              "name": "numero_do_contrato",
+              "type": "integer"
+            },
+            {
+              "name": "situacao_do_contrato",
+              "type": "string"
+            },
+            {
+              "name": "tipo_do_contrato",
+              "type": "string"
+            },
+            {
+              "name": "data_de_publicacao",
+              "type": "date"
+            },
+            {
+              "name": "data_inicio_de_vigencia",
+              "type": "date"
+            },
+            {
+              "name": "data_fim_de_vigencia",
+              "type": "date"
+            },
+            {
+              "name": "orgaos_participantes",
+              "type": "string"
+            },
+            {
+              "name": "cnpj_cpf",
+              "type": "string"
+            },
+            {
+              "name": "nome_fornecedor",
+              "type": "string"
+            },
+            {
+              "name": "unidade_gestora_do_contrato",
+              "type": "string"
+            },
+            {
+              "name": "gestores_do_contrato_portal_de_compras",
+              "type": "string"
+            },
+            {
+              "name": "x",
+              "type": "any"
+            },
+            {
+              "name": "fiscais_do_contrato",
+              "type": "string"
+            },
+            {
+              "name": "objeto",
+              "type": "string"
+            },
+            {
+              "name": "valor_inicial",
+              "type": "string"
+            },
+            {
+              "name": "valor_atual",
+              "type": "string"
+            },
+            {
+              "name": "link_arquivo_do_contrato",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "700dc278f2bc732f8e1ed62badda0153",
+          "bytes": 1843028,
+          "fields": 18,
+          "rows": 2682
+        }
+      },
+      "time": 0.19,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    },
+    {
+      "resource": {
+        "description": "Insira a descrição/explicação detalhada deste recurso.",
+        "dialect": {
+          "delimiter": ";"
+        },
+        "encoding": "utf-8-sig",
+        "format": "csv",
+        "hashing": "md5",
+        "name": "fiscais_contratos_2025",
+        "path": "data/fiscais_contratos_2025.csv",
+        "profile": "tabular-data-resource",
+        "schema": {
+          "fields": [
+            {
+              "name": "numero_do_processo_formatado",
+              "type": "string"
+            },
+            {
+              "name": "numero_do_contrato",
+              "type": "integer"
+            },
+            {
+              "name": "situacao_do_contrato",
+              "type": "string"
+            },
+            {
+              "name": "tipo_do_contrato",
+              "type": "string"
+            },
+            {
+              "name": "data_de_publicacao",
+              "type": "date"
+            },
+            {
+              "name": "data_inicio_de_vigencia",
+              "type": "date"
+            },
+            {
+              "name": "data_fim_de_vigencia",
+              "type": "date"
+            },
+            {
+              "name": "orgaos_participantes",
+              "type": "string"
+            },
+            {
+              "name": "cnpj_cpf",
+              "type": "string"
+            },
+            {
+              "name": "nome_fornecedor",
+              "type": "string"
+            },
+            {
+              "name": "unidade_gestora_do_contrato",
+              "type": "string"
+            },
+            {
+              "name": "gestores_do_contrato_portal_de_compras",
+              "type": "string"
+            },
+            {
+              "name": "fiscais_do_contrato",
+              "type": "string"
+            },
+            {
+              "name": "objeto",
+              "type": "string"
+            },
+            {
+              "name": "valor_inicial",
+              "type": "string"
+            },
+            {
+              "name": "valor_atual",
+              "type": "string"
+            },
+            {
+              "name": "link_arquivo_do_contrato",
+              "type": "string"
+            }
+          ]
+        },
+        "scheme": "file",
+        "title": "Insira um título humanamente legível para este recurso.",
+        "stats": {
+          "hash": "1790543ddf7f541e539823a7762c3314",
+          "bytes": 2247085,
+          "fields": 17,
+          "rows": 3035
+        }
+      },
+      "time": 0.208,
+      "scope": [
+        "hash-count-error",
+        "byte-count-error",
+        "field-count-error",
+        "row-count-error",
+        "blank-header",
+        "extra-label",
+        "missing-label",
+        "blank-label",
+        "duplicate-label",
+        "incorrect-label",
+        "blank-row",
+        "primary-key-error",
+        "foreign-key-error",
+        "extra-cell",
+        "missing-cell",
+        "type-error",
+        "constraint-error",
+        "unique-error"
+      ],
+      "partial": false,
+      "errors": [],
+      "stats": {
+        "errors": 0
+      },
+      "valid": true
+    }
+  ],
+  "stats": {
+    "errors": 0,
+    "tasks": 4
+  },
+  "valid": true
+}
