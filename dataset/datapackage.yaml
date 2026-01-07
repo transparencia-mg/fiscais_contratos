@@ -1,0 +1,199 @@
+name: fiscais_contrato
+owner_org: secretaria-de-estado-de-planejamento-e-gestao-seplag
+profile: data-package
+resources:
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: fiscais_contratos_2022
+    path: data/fiscais_contratos_2022.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: numero_do_processo_formatado
+          type: string
+        - name: numero_do_contrato
+          type: integer
+        - name: situacao_do_contrato
+          type: string
+        - name: tipo_do_contrato
+          type: string
+        - name: data_de_publicacao
+          type: date
+        - name: data_inicio_de_vigencia
+          type: date
+        - name: data_fim_de_vigencia
+          type: date
+        - name: orgaos_participantes
+          type: string
+        - name: cnpj_cpf
+          type: string
+        - name: nome_fornecedor
+          type: string
+        - name: unidade_gestora_do_contrato
+          type: string
+        - name: gestores_do_contrato_portal_de_compras
+          type: string
+        - name: x
+          type: any
+        - name: fiscais_do_contrato
+          type: string
+        - name: objeto
+          type: string
+        - name: valor_inicial
+          type: string
+        - name: valor_atual
+          type: string
+        - name: link_arquivo_do_contrato
+          type: string
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: fiscais_contratos_2023
+    path: data/fiscais_contratos_2023.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: numero_do_processo_formatado
+          type: string
+        - name: numero_do_contrato
+          type: integer
+        - name: situacao_do_contrato
+          type: string
+        - name: tipo_do_contrato
+          type: string
+        - name: data_de_publicacao
+          type: date
+        - name: data_inicio_de_vigencia
+          type: date
+        - name: data_fim_de_vigencia
+          type: date
+        - name: orgaos_participantes
+          type: string
+        - name: cnpj_cpf
+          type: string
+        - name: nome_fornecedor
+          type: string
+        - name: unidade_gestora_do_contrato
+          type: string
+        - name: gestores_do_contrato_portal_de_compras
+          type: string
+        - name: x
+          type: any
+        - name: fiscais_do_contrato
+          type: string
+        - name: objeto
+          type: string
+        - name: valor_inicial
+          type: string
+        - name: valor_atual
+          type: string
+        - name: link_arquivo_do_contrato
+          type: string
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: fiscais_contratos_2024
+    path: data/fiscais_contratos_2024.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: numero_do_processo_formatado
+          type: string
+        - name: numero_do_contrato
+          type: integer
+        - name: situacao_do_contrato
+          type: string
+        - name: tipo_do_contrato
+          type: string
+        - name: data_de_publicacao
+          type: date
+        - name: data_inicio_de_vigencia
+          type: date
+        - name: data_fim_de_vigencia
+          type: date
+        - name: orgaos_participantes
+          type: string
+        - name: cnpj_cpf
+          type: string
+        - name: nome_fornecedor
+          type: string
+        - name: unidade_gestora_do_contrato
+          type: string
+        - name: gestores_do_contrato_portal_de_compras
+          type: string
+        - name: x
+          type: any
+        - name: fiscais_do_contrato
+          type: string
+        - name: objeto
+          type: string
+        - name: valor_inicial
+          type: string
+        - name: valor_atual
+          type: string
+        - name: link_arquivo_do_contrato
+          type: string
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+  - description: Insira a descrição/explicação detalhada deste recurso.
+    dialect:
+      delimiter: ;
+    encoding: utf-8-sig
+    format: csv
+    hashing: md5
+    name: fiscais_contratos_2025
+    path: data/fiscais_contratos_2025.csv
+    profile: tabular-data-resource
+    schema:
+      fields:
+        - name: numero_do_processo_formatado
+          type: string
+        - name: numero_do_contrato
+          type: integer
+        - name: situacao_do_contrato
+          type: string
+        - name: tipo_do_contrato
+          type: string
+        - name: data_de_publicacao
+          type: date
+        - name: data_inicio_de_vigencia
+          type: date
+        - name: data_fim_de_vigencia
+          type: date
+        - name: orgaos_participantes
+          type: string
+        - name: cnpj_cpf
+          type: string
+        - name: nome_fornecedor
+          type: string
+        - name: unidade_gestora_do_contrato
+          type: string
+        - name: gestores_do_contrato_portal_de_compras
+          type: string
+        - name: fiscais_do_contrato
+          type: string
+        - name: objeto
+          type: string
+        - name: valor_inicial
+          type: string
+        - name: valor_atual
+          type: string
+        - name: link_arquivo_do_contrato
+          type: string
+    scheme: file
+    title: Insira um título humanamente legível para este recurso.
+title: Fiscais_contrato
