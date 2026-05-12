@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.974,
+  "time": 0.97,
   "errors": [],
   "tasks": [
     {
@@ -94,13 +94,13 @@
         "scheme": "file",
         "title": "Fiscais de Contratos 2022",
         "stats": {
-          "hash": "a528661462f4025eb49519e9da4d2b2c",
-          "bytes": 2850188,
+          "hash": "9cb061e385a2489357aeb51921b39f50",
+          "bytes": 2864587,
           "fields": 18,
-          "rows": 4105
+          "rows": 4123
         }
       },
-      "time": 0.297,
+      "time": 0.293,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -460,7 +460,7 @@
           "rows": 0
         }
       },
-      "time": 0.134,
+      "time": 0.131,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -74720,7 +74720,7 @@
           "rows": 3838
         }
       },
-      "time": 0.257,
+      "time": 0.255,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -74841,7 +74841,7 @@
           "rows": 1060
         }
       },
-      "time": 0.089,
+      "time": 0.087,
       "scope": [
         "hash-count-error",
         "byte-count-error",
