@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.963,
+  "time": 0.48,
   "errors": [],
   "tasks": [
     {
@@ -100,7 +100,7 @@
           "rows": 4122
         }
       },
-      "time": 0.28,
+      "time": 0.142,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -460,7 +460,7 @@
           "rows": 0
         }
       },
-      "time": 0.124,
+      "time": 0.062,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -37592,7 +37592,7 @@
           "rows": 0
         }
       },
-      "time": 0.126,
+      "time": 0.061,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -74720,7 +74720,7 @@
           "rows": 3840
         }
       },
-      "time": 0.248,
+      "time": 0.122,
       "scope": [
         "hash-count-error",
         "byte-count-error",
@@ -74835,13 +74835,13 @@
         "scheme": "file",
         "title": "Fiscais de Contrato 2026",
         "stats": {
-          "hash": "c0b8aacf2723d84ec4997b8591ee904a",
-          "bytes": 1079106,
+          "hash": "c768102c64d54d46dcf1b4de1d6fcb43",
+          "bytes": 1080540,
           "fields": 17,
           "rows": 1376
         }
       },
-      "time": 0.107,
+      "time": 0.049,
       "scope": [
         "hash-count-error",
         "byte-count-error",
